@@ -68,4 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
+
 # billboard
+
+This is my repo for a simple Billboard Charts app using a [Billboard API](https://www.npmjs.com/package/billboard-top-100) I found on [https://www.npmjs.com/](https://www.npmjs.com/)

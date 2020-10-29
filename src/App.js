@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 
 function App() {
@@ -6,8 +6,19 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Let's check out them charts!
         </p>
         <a
           className="App-link"
@@ -15,7 +26,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Search Billboard
         </a>
       </header>
     </div>
